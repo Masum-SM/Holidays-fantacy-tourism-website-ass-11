@@ -1,0 +1,27 @@
+
+
+.primi-container{
+    width: 95%;
+    margin: auto;
+}
+.pimium-title{
+    color: rgb(1, 1, 100);
+    font-family: serif;
+    font-weight: 700;
+    font-size: 35px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+  
+}
+.primi-img{
+    border-radius: 6px;
+    outline: none !important;
+    border: 3px solid rgb(1, 1, 107);
+}
+.primi-des{
+    text-align: justify;
+    margin: 20px;
+}

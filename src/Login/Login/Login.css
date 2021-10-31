@@ -1,0 +1,32 @@
+
+/* .inout-btn{
+    background-color: red;
+} */
+.login-contailer{
+    background-color: thistle;
+}
+.login-title{
+   
+    font-weight: 700;
+    font-family: serif;
+    font-size: 40px;
+    color: black;
+}
+.login-logo{
+    width: 40%;
+    margin: auto;
+
+}
+.google-btn{
+    width: 220px;
+    padding: 6px 0;
+    border: 3px solid orange;
+    border-radius: 19px;
+    margin-bottom: 40px;
+    background-color: black;
+    color:whitesmoke;
+    font-weight: 700;
+}
+.google{
+    width: 40px;
+}

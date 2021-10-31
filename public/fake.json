@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sundarbans: The Home of Royal Bengal Tigers",
+    "img": "https://i.ibb.co/61Lrb9S/sun.jpg",
+    "des": "Travel Mate arranges the tour in an organized way to give you the best experience for surfing the forests. The Sundarbans tour will start early in the morning from Khulna. We will also end the journey from the same place (Khulna) or leave for Dhaka. Are you confused about where you will stay in the forests? How will you get the safety? Our specialists will do everything for you. You will stay on the specially designed boat or ship and it will be only for your travel mate.",
+    "duration": "03 Days & 04 Nights",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "name": "Cox’s Bazar Tour: The Beach Holiday",
+    "img": "https://i.ibb.co/sKSNGmj/cox.jpg",
+    "des": "As the longest sea beach in the world, Cox’s Bazar is considered the most popular tourist destination in Bangladesh. Do you know Cox’s Bazar is familiar as the tourist capital of Bangladesh? Yes! If you consider blue water beauty, accommodation solution, security, and fresh seafood, this natural sandy sea beach is the most amazing place to travel again and again. Not to mention, every time you visit the Cox’s Bazar you will feel the unforgettable majestic view.",
+    "duration": "03 Days & 02 Nights",
+    "price": 4000
+  },
+  {
+    "id": 3,
+    "name": "Most Beautiful Rangamati Tour",
+    "img": "https://i.ibb.co/vHc9jSm/ran.jpg",
+    "des": "The tour of Travel Mate will give you a special opportunity to enjoy the Rangamati tour more closely. In addition, you have the most chances to meet with the tribal villages including Chakma, Marma, Tonchongya, Tripura, Murong, Bome, Khumi, Kheyang, Chak, Pankhoa, and Lusai. Culture and diverse traditions will give you an exciting experience. The beauty of the hilly areas, lake and greeny location, will give the amazing feeling to go very near to nature.",
+    "duration": "03 Nights & 02 Days",
+    "price": 4500
+  },
+  {
+    "id": 4,
+    "name": "Bandarban Tour: The Adventure in Hill Tract",
+    "img": "https://i.ibb.co/mvys6hR/ban.jpg",
+    "des": "Bandarban is located in the south-eastern part of Bangladesh on the Chittagong division. Important to realize, among the three Chittagong Hill Tracks districts, Bandarban is one of them. In addition, it is the most beautiful and picturesque place in Bangladesh. It is one of the attractive travel destinations is just 77 km away from the Chittagong city. In Bandarban, the most beautiful tourist spots are Boga Lake, Chimbuk Hill and Tribal Villages",
+    "duration": "02 Days & 03 Nights",
+    "price": 4500
+  },
+  {
+    "id": 5,
+    "name": "Sajek Valley: The Queen of beauty",
+    "img": "https://i.ibb.co/S5MV8P3/sajek.jpg",
+    "des": "Sajek is the biggest union of Bangladesh whose size is 702 square miles. The area is formed with the combination of Sajek Ruiluipara and Konglak Para. Established in 1885, the height of the Ruiluipara is approximately 1720 feet from the sea level and the height of the Konglakpara from the sea level is approximately 1800 feet. Mainly, Sajek is the living place of indigenous people including Lusai, Pankhwa, and Tripura.",
+    "duration": "03 Days & 04 Nights",
+    "price": 4500
+  },
+  {
+    "id": 6,
+    "name": "Sreemangol : The tea garden",
+    "img": "https://i.ibb.co/yYdXvzb/Sre.jpg",
+    "des": "Sreemangal is known as the tea capital of Bangladesh. Sreemangal’s tea gardens can be seen for miles and miles. The town is surrounded by more than 40 tea gardens, lakes, lofty hills, dense jungles, lemon and pineapple gardens and rubber gardens. Sreemangal’s lush greenery and beautiful trees promise to create a unique impression on all visitors. The impressive green shade of the majestic trees, coupled with the azure sky, is truly breathtaking.",
+    "duration": "03 Days & 04 Nights",
+    "price": 5000
+  }
+]
